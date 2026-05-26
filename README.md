@@ -69,3 +69,20 @@ Power BI Dashboard
 4. Run PL_Master_Orchestrator pipeline
 5. Validate Gold tables in ADB
 
+## 📊 Dashboard Preview
+
+![Dashboard](docs/dashboard_preview.png)
+
+### KPI Highlights
+| Metric | Value |
+|---|---|
+| Total Revenue | R$ 15.42M |
+| Total Orders | 96K |
+| Avg Customer Satisfaction | 4.08 / 5.0 |
+| Late Delivery Rate | 9.15% |
+
+### Dashboard Visuals
+- **Monthly Revenue Trend** — Revenue growth from 2016 to 2018
+- **Revenue by State** — Geographic distribution across Brazil
+- **Customer RFM Segments** — 5 segments from Champions to Lost
+- **Top 10 Categories** — health_beauty leads with R$1M+ revenue
